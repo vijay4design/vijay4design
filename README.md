@@ -1,76 +1,75 @@
 <div align="center">
 
-# Hi, I'm Vijay 👋
+# Vijay Dadepogu
 
 ### Frontend Developer • Learning DevOps
 
-I'm passionate about building responsive web interfaces with **HTML, CSS, and JavaScript**. Recently, I've started exploring **DevOps** and I'm documenting my learning through hands-on practice and small projects.
+Building responsive web applications and continuously improving through hands-on projects.
 
 <p>
-  <a href="https://github.com/vijay4design">
-    <img src="https://img.shields.io/badge/GitHub-vijay4design-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/dadepogu-vijay/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vijay_Dadepogu-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
+<a href="https://github.com/vijay4design">GitHub</a> •
+<a href="https://www.linkedin.com/in/dadepogu-vijay/">LinkedIn</a> •
+<a href="https://vijay4design.github.io/portfolio/">Portfolio</a>
 </p>
 
 </div>
 
-## 🚀 Featured Projects
+## About
 
-### 📊 Cluster Dashboard UI
+I'm passionate about building responsive web interfaces using HTML, CSS, and JavaScript. Alongside frontend development, I'm currently exploring DevOps by learning modern tools and documenting my progress through hands-on projects.
 
-A responsive dashboard inspired by enterprise infrastructure interfaces.
+<div align="center">
 
-🔗 **Repository:** https://github.com/vijay4design/cluster-dashboard-ui
+## Technologies
 
-🌐 **Live Demo:** https://vijay4design.github.io/cluster-dashboard-ui/
+|     Category    | Technologies                     |
+| :-------------: | :------------------------------- |
+|   **Frontend**  | HTML5 • CSS3 • JavaScript        |
+|   **Styling**   | Responsive Design • Tailwind CSS |
+| **Programming** | Python (Basics)                  |
+|    **Tools**    | Git • GitHub • VS Code           |
+|   **Learning**  | Docker • Jenkins • Linux • CI/CD |
 
-### 👥 User Management Dashboard
+</div>
 
-A responsive dashboard with API integration and user search functionality.
+<div align="center">
 
-🔗 **Repository:** https://github.com/vijay4design/user-management-dashboard
+## Featured Projects
 
-🌐 **Live Demo:** https://vijay4design.github.io/user-management-dashboard/
+|            Project            | Description                                                                                 | Links                                                                                                                                                                   |
+| :---------------------------: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    **Cluster Dashboard UI**   | Enterprise-inspired dashboard interface for monitoring cluster resources and system status. | <a href="https://github.com/vijay4design/cluster-dashboard-ui">Repository</a><br><a href="https://vijay4design.github.io/cluster-dashboard-ui/">Live Demo</a>           |
+| **User Management Dashboard** | Responsive dashboard with API integration and search functionality.                         | <a href="https://github.com/vijay4design/user-management-dashboard">Repository</a><br><a href="https://vijay4design.github.io/user-management-dashboard/">Live Demo</a> |
+|      **DevOps Practice**      | Repository documenting my DevOps learning journey and hands-on practice.                    | <a href="https://github.com/vijay4design/shared">Repository</a>                                                                                                         |
 
-## 📚 Currently Learning
+</div>
 
-I'm currently learning and practicing:
+<div align="center">
 
-* DevOps
-* Docker
-* Jenkins
-* CI/CD
-* Linux
-* Python
+## Currently Working On
 
-I document my learning and hands-on practice here:
+|            Focus           |    Status   |
+| :------------------------: | :---------: |
+| Building Frontend Projects | In Progress |
+|       Learning Docker      | In Progress |
+|      Learning Jenkins      | In Progress |
+|     Understanding CI/CD    | In Progress |
+|     Linux Fundamentals     | In Progress |
 
-🔗 **DevOps Practice Repository**
+</div>
 
-https://github.com/vijay4design/shared
+<div align="center">
 
-## 💻 Tech Stack
+## Connect
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,docker,linux,jenkins" />
-</p>
+|    Platform   | Link                                                                                     |
+| :-----------: | :--------------------------------------------------------------------------------------- |
+|   **GitHub**  | <a href="https://github.com/vijay4design">github.com/vijay4design</a>                    |
+|  **LinkedIn** | <a href="https://www.linkedin.com/in/dadepogu-vijay/">linkedin.com/in/dadepogu-vijay</a> |
+| **Portfolio** | <a href="https://vijay4design.github.io/portfolio/">vijay4design.github.io/portfolio</a> |
 
-## 🎯 Current Focus
+<br>
 
-* Building responsive frontend projects
-* Strengthening JavaScript fundamentals
-* Learning DevOps through hands-on practice
-* Improving problem-solving skills
-* Continuously building and sharing projects
+*"Always learning. Always building."*
 
-## 📫 Connect with Me
-
-* **LinkedIn:** https://www.linkedin.com/in/dadepogu-vijay/
-* **GitHub:** https://github.com/vijay4design
-
----
-
-> *"Learning consistently, building practical projects, and improving one step at a time."*
+</div>
